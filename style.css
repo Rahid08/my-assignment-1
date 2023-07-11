@@ -1,6 +1,19 @@
-div  h2{font-family: 'Open Sans', sans-serif;
-font-family: 'Open Sans', sans-serif;}
+
+
+/* header-Div-banner */
+
+div > h1{color: #272727;
+    font-family: 'Open Sans', sans-serif;}
+.p1{color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    
+}
+
+
 .btn-primary{
+
     border-radius: 5px ;
     background: #E55473;
     border: 0px;
@@ -8,14 +21,156 @@ font-family: 'Open Sans', sans-serif;}
     font-size: 20px;
     font-weight: 700;
     padding: 20px 43px ;
+    margin-top: 10px;
     
 }
 .header{background-color:  #E554731A;
 }
-.banner{padding: 10px 150px 150px 50px ;
-display: flex;
-text-align: flex;}
-.banner-item{text-align:justify;}
+.banner{ 
+    padding: 10px 0px 0px 10px ;
+display:flex;
+justify-content: space-around;
+align-items: center;
+text-align: flex;
+margin-bottom: 200px;
+
+}
+.text-t{margin-top: 10px;
+    margin-bottom: 0px;}
+.text-u{margin-top: 0px;
+margin-bottom: 0px;}
+.text-v{margin-top: 0px;}
+
+.banner-item{text-align:flex;
+padding: 100px 10px 10px 10px;
+background-position: bottom ;
+margin: }
+
+.p1{font; width: 400px;}
 
 .banner .img-no-1{width: 635px;
-height: 400px;}
+height: 500px;
+
+}
+/* main-div2-h3 */
+
+div > h3{color: #272727;
+    text-align: center;
+    font-family:'Open Sans', sans-serif ;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+    .div-2 > p {text-align: center;}
+
+    /* second-section */
+
+
+    .background{width: 360px;
+        height: 400px;
+        flex-shrink: 0;
+        border-radius: 300px 300px 0px 0px;
+    background: #A7216226;}
+    .second-section{display: flex;
+    justify-content:center;
+    gap:50px;
+    margin: 10px 60px 20px 60px;
+}
+
+.second-section{margin: 80px 80px 80px 80px;}
+    .background{background-image: url('Flower Asset/pngwing\ 6.png');
+        background-size: 300px 300px;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+    .two{background-color: #0597A026;
+    background-image: url('Flower Asset/pngwing\ 7.png');
+    background-size: 300px 300px;
+   background-position: bottom;
+    
+    }
+    .three{background-color: #477D1126;
+    background-image: url('Flower Asset/pngwing\ 8.png');
+    background-size: 300px 300px;
+    background-position: bottom;
+    }
+
+    /* pink flower */
+    .pink-flower{color: #272727;
+        text-align: center;
+        font-family: Lato;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 35px;
+        text-decoration-line: underline;}
+
+        /* 30% Discount */
+
+        .span-colour{color: #E55473;}
+        .img-2{
+            width: 300px;
+height: 300px;
+}
+.text-center{text-align: center;}
+
+
+
+
+/* header-2 */
+.header-2{background-color: #E554730D;
+    
+    height: 500px;}
+    .p2{text-align: center;
+    color: #27272799;
+    }
+    /* flower */
+    
+    .flower{display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+    
+    }
+.rectangle-9
+
+{background-image: url('Flower Asset/Rectangle\ 9.png');
+   
+  padding: 4rem;
+
+align-items: center;
+
+margin-top: 70px ;   
+margin-bottom: 70px ;
+}
+
+.input{ 
+    justify-content: center;
+    padding:1rem 4rem 1rem 4rem ;
+}
+
+.footer{
+    text-align: center;
+    background-color: black;
+    padding: 4rem;
+    color: white;
+
+
+}
+.footer p{
+
+    margin-top: 3rem;
+}
+
+.deal{
+
+    padding: 200px;
+}
+ .rectangle-9 p{
+
+    text-align: center;
+ }
+.font{ font-family: 'Open Sans', sans-serif;}
