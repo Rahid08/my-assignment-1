@@ -1,0 +1,21 @@
+div  h2{font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;}
+.btn-primary{
+    border-radius: 5px ;
+    background: #E55473;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px ;
+    
+}
+.header{background-color:  #E554731A;
+}
+.banner{padding: 10px 150px 150px 50px ;
+display: flex;
+text-align: flex;}
+.banner-item{text-align:justify;}
+
+.banner .img-no-1{width: 635px;
+height: 400px;}
